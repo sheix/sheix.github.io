@@ -29,6 +29,3 @@ Ah, and I have to bring some dependency injection to the project, so functionali
 
 That's all for now, and I have to implement all this before moving forward. Keep waiting for updates!
 
-Ah, and I have to bring some dependency injection to the project, so functionality like adding new terrain types will be easier.
-
-That's all for now, and I have to implement all this before moving forward. Keep waiting for updates!
