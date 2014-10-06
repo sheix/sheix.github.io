@@ -1,3 +1,7 @@
+---
+layout: post
+title: When I don't make games, I play games
+---
 And the latest game I've played was Halfway by Robotality.
 
 While researching modern graphics engine selection options, I stumbled upon libGDX - java cross-platform library, made for game development. Although, I have chosen to use SFML instead for my first game project, I've spotted one title, one game that was made with libGDX. It was in steam greenlight program and got released couple days ago.
