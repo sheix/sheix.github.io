@@ -1,3 +1,8 @@
+---
+layout: post
+title: Easy to understand
+---
+
 First of my three eases is "Easy to understand". The importance of this principle is unquestioned by everyone except people that do "job security" by producing highly obscured code. You can refer to http://TheDailyWTF.com for detailed examples. If you keep reading past this, I suggest that you're not such kind of person. If you understand the other's code - it easier to work on it, spot bugs, fix and understand. If teammate understands your code, you will be bothered much less and have much more appreciation. In general, producing code that is easy to read is profitable for individual and company alike. 
 
 
