@@ -2,8 +2,8 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:
-baseurl:
+url: http://www.sheix.info/
+baseurl: http://sheix.github.io/
 
 redcarpet:
   extensions: [strikethrough, tables]
