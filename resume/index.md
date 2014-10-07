@@ -3,7 +3,6 @@ layout: page
 title: Resume
 ---
 
-#Resume
 ##Areas of interest
 * System design and architecture
 * Learning machines
