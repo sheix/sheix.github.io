@@ -1,3 +1,7 @@
+---
+layout: post
+title: Two constructors
+---
 When looking in the code of some project I've found something like:
 
     public Class() {}
