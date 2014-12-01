@@ -17,5 +17,5 @@ I'm not the first one who've done this.
 
 Learned from:
 
-http://stackoverflow.com/questions/19880246/move-only-files-recursively-from-multiple-directories-into-one-directory-with-mv#19881331
-http://askubuntu.com/questions/201568/how-to-move-only-a-specific-amount-of-images-from-a-folder
+[http://stackoverflow.com/questions/19880246/move-only-files-recursively-from-multiple-directories-into-one-directory-with-mv#19881331]
+[http://askubuntu.com/questions/201568/how-to-move-only-a-specific-amount-of-images-from-a-folder]
