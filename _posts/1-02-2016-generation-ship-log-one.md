@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generation Ship, Log 1
+title: Generation Ship, Log one
 ---
 The date is First of February, year 2016. I'm awake from hibernation sleep. And now it's time to work.
 
