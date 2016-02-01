@@ -2,7 +2,6 @@
 layout: post
 title: Generation Ship, Log 1
 ---
-
 The date is First of February, year 2016. I'm awake from hibernation sleep. And now it's time to work.
 
 Generation ship as it is now lacks. I have list of bugs, and features to implement. I'll write it here and will update as I'm fixing them.
