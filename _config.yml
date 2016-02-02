@@ -3,7 +3,7 @@ highlighter: pygments
 permalink: /:title
 
 url: http://www.sheix.info/
-baseurl: http://sheix.github.io/
+baseurl: 
 
 redcarpet:
   extensions: [strikethrough, tables]
