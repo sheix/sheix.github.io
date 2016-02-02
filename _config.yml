@@ -1,12 +1,9 @@
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title
 
 url: http://www.sheix.info/
 baseurl: 
-
-redcarpet:
-  extensions: [strikethrough, tables]
 
 sass:
   sass_dir: public/css
