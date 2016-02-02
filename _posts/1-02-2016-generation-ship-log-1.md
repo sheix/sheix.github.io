@@ -7,7 +7,7 @@ The date is First of February, year 2016. I'm awake from hibernation sleep. And 
 Generation ship as it is now lacks. I have list of bugs, and features to implement. I'll write it here and will update as I'm fixing them.
 When every item in this list is done, I will re-release it as free version. After that I'm planning Android port. And than - I don't know. Anyway, I'll support it until there are some player base.
 
-Here goes my bugs:
+Here goes list of my bugs:
 
 - Sometimes destination is not reachable (03) - the galaxy generation algorithm isn't perfect and once in a while there's star configuration that is impossible to win.
 - When probe crashed on planet (06) - all other probes, doesn't matter what their status is, are crashed too. Happy rebuilding.
