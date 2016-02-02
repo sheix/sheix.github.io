@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu 10.4: Disappointment and hope
+title: Ubuntu 10.4&#58; Disappointment and hope
 ---
 
 Well. I've updated it again, and as usual after the upgrade i wish i never did that. It's even not so bad. But it is annoying: couple of small bugs, one major hardware problem, disappointment and hope. 
