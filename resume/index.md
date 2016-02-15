@@ -9,16 +9,16 @@ title: Resume
 * Natural language processing
 
 ##Experience
+* 2014 - 2016 - IBM Research - Software engineer
 * 2014 KLA-Tencor - Software engineer
 * 2011-2014 Retalix ltd., - Software engineer
 * 2008-2011 Tower Semiconductors ltd., - IT, System administration
 * 2006-2008 Netvision ltd., - Tech Support
 
 ##Skills
-* Abstract : OOP and design patterns, TDD, Agile methodologies, Client-Server architecture, MVVM.
+* Abstract : OOP and design patterns, TDD, Agile methodologies, Client-Server architecture, MVVM, DI, CI, Source control.
 * Programming languages : C# / Java, also knowledge in Scala, C, C++, Pascal/Delphi, x86 assembly, VB#.
-* Frameworks : MEF, Castle Windsor, log4net, NUnit, MSTest, Moq.
-* Tools : DB administration tools, MySQL and MSSQL, scripting for both Windows and Linux, IDE - MSVS + ReSharper,  IntellijIdea, Eclipse, MonoDevelop, Code::Blocks; TFS 2010, Git; JMeter.
+* Tools : DB administration tools, DB2 and MSSQL, scripting for both Windows and Linux, IDE - MSVS + ReSharper, IntellijIdea, Eclipse, MonoDevelop ; TFS 2010, Git; JMeter.
 
 ##Education
 * 2012 - EPFL online course - Functional Programming Principles in Scala
