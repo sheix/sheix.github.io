@@ -25,5 +25,5 @@ Anyway, as I stated on game's page, I will continue to work on it. As for this v
 
 
 
-[gs] http://sheix.itch.io/generation-ship "Generation Ship on itch.io"
+[gs]: http://sheix.itch.io/generation-ship "Generation Ship on itch.io"
 
