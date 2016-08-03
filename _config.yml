@@ -9,4 +9,4 @@ sass:
   sass_dir: public/css
   style: :compressed
 
-site.google_analytics: UA-16801158-3
+google_analytics: UA-16801158-3
