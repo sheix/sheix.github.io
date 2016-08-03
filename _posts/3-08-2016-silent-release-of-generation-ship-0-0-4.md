@@ -22,4 +22,4 @@ Remained issues and vector of development
 Release 0.0.5 will be release with bugs fix. I'm going to close all the open bugs. Later on, I should do a balancing - right now the game is too simple. Player given too much resources. There's little incentive to go exploring others planets. Looks like I'm going to adjust initial resources amount, consumption rate and harvested amounts.
 
 
-[1] https://sheix.itch.io/generation-ship
+[1]: https://sheix.itch.io/generation-ship
