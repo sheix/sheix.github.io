@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generation Ship log 3
+title: Generation Ship, Log 3
 ---
 
 So I've released next version of the game, 0.0.5, which includes following improvements:
