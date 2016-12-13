@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generation Ship dev log 4
+title: Generation Ship, Log 4
 ---
 
 Usually in the first days of month I release another version of Generation Ship. And this month is not exception, so, here it is: [version 0.0.6](https://sheix.itch.io/generation-ship). One of the major  improvements is windows bundle - which you can download and play without any prerequisites, just unpack a zip file. Linux and MacOS versions are still not bundled with java because right now I can't test them on real machines. Due to low-level nature of libgdx rendering, I had not succeeded to test the game on virtual machines. 
