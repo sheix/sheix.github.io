@@ -16,10 +16,10 @@ I started from scratch. As a mission, I've set to myself a statement :"to produc
 > <section>*</section> Quality - game works, end to end, with no crashes or unexpected behaviours.
 
 
-> ** Interesting - game is not broken from the game design's definition. It's playable and winnable.
+> <section>**</section> Interesting - game is not broken from the game design's definition. It's playable and winnable.
 
 
-> *** Limited - if I have a hour to work in the evening, I'm lucky.
+> <section>***</section> Limited - if I have a hour to work in the evening, I'm lucky.
 
 Around version 0.0.5, I've started to review whats going on and if it's any good. I've remembered that agile methodology is all about looking back and learning lessons.
 
