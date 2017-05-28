@@ -8,5 +8,7 @@ baseurl:
 sass:
   sass_dir: public/css
   style: :compressed
+  
+future: true
 
 google_analytics: UA-16801158-3
