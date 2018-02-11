@@ -13,7 +13,7 @@ Areas of interest
 Experience
 ==========
 
-* 2016-2017 Omnisol - Software engineer
+* 2016-2018 Omnisol - Software engineer
 * 2014-2016 IBM - Software engineer
 * 2014 KLA-Tencor - Software engineer
 * 2011-2014 Retalix ltd., - Software engineer
