@@ -13,6 +13,7 @@ Areas of interest
 Experience
 ==========
 
+* 2018 Tufin - Software Engineer 
 * 2016-2018 Omnisol - Software engineer
 * 2014-2016 IBM - Software engineer
 * 2014 KLA-Tencor - Software engineer
@@ -25,7 +26,7 @@ Skills
 
 * Abstract : OOP and design patterns, TDD, Agile methodologies, Client-Server architecture, MVVM, DI, CI, Cloud.
 * Programming languages : Java, C#, Kotlin, Python, Scala, C, C++.
-* Tools : DB administration: MySQL, DB2, MSSQL PostreSQL; scripting for Windows and Linux; Source Control: TFS, Git; Profiling: JMeter.
+* Tools : DB administration: MySQL, DB2, MSSQL PostreSQL; scripting for Windows and Linux; Source Control: TFS, Git; Kubernetes, docker.
 
 Education
 =========
