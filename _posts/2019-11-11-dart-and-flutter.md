@@ -17,7 +17,7 @@ As for Flutter, it's job is to help a developer to create an user interface in s
 
 Visual feedback is instant for small changes, I never seen gradle (somewhere under the hood there is compilation to native Android/IOS) work so fast. For a downside, I've run into funny [bug](https://github.com/flutter/flutter/issues/20611) at a start and was surprised. But I've seen fast reaction, workaround, pull requests and I'm sure it'll be fixed soon. 
 
-My conclusion is that both language and framework have a future, are living and have a community. If I'll have to develop for Android (and may be for IOS), I'll choose Flutter for a start. In works there is a project to compile Dart to native, so it'll be even more cross-platfor that it's now. 
+My conclusion is that both language and framework have a future, are living and have a community. If I'll have to develop for Android (and may be for IOS), I'll choose Flutter for a start. In works there is a project to compile Dart to native, so it'll be even more cross-platform that it's now. 
 
 20 years ago I've run into Delphi, which was like Lego for Windows applications with Pascal beneath. As a teenager I've grasped it on very intuitive level. Flutter and Dart are very intuitive and easy to get into.  
 
