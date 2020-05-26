@@ -13,7 +13,7 @@ Areas of interest
 Experience
 ==========
 
-* 2018 Tufin - Software Engineer 
+* 2018 Tufin - Software Engineer, Frontend Guild member
 * 2016-2018 Omnisol - Software engineer
 * 2014-2016 IBM - Software engineer
 * 2014 KLA-Tencor - Software engineer
@@ -25,8 +25,8 @@ Skills
 ======
 
 * Abstract : OOP and design patterns, TDD, Agile methodologies, Client-Server architecture, MVVM, DI, CI, Cloud.
-* Programming languages : Java, C#, Kotlin, Python, Scala, C, C++.
-* Tools : DB administration: MySQL, DB2, MSSQL PostreSQL; scripting for Windows and Linux; Source Control: TFS, Git; Kubernetes, docker.
+* Programming languages : Kotlin, Java, Typescript, C#, Python, Scala, C++.
+* Tools : Databases: MySQL, DB2, MSSQL, PostgreSQL, Mongo, Cassandra; scripting for Windows and Linux; Source Control: TFS, Git; Deployment: Kubernetes, docker; UI: Angular, JSF.
 
 Education
 =========

@@ -7,3 +7,5 @@ This site comes as replacement of good old google sites web page. I found out th
 
 
 Thanks to: Aigars Dzerviniks for [brume](http://jekyllthemes.org/themes/brume/) jekyll theme
+
+Follow me on [twitter](https://twitter.com/sheihman)
