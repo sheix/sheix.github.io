@@ -17,6 +17,7 @@ jq    //instead of sed/grep for json files
 fd    //instead of find
 ```
 
+
 But not everithing is great. Because those tools are not standard yet, and in Centos 7 most of them is not installed trivially.
 
 fd
