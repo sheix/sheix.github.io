@@ -5,7 +5,7 @@ title: About
 
 This site comes as replacement of good old google sites web page. I found out that blogging with jekyll would be simpler for me. 
 
+Follow me on [twitter](https://twitter.com/sheihman)
+
 
 Thanks to: Aigars Dzerviniks for [brume](http://jekyllthemes.org/themes/brume/) jekyll theme
-
-Follow me on [twitter](https://twitter.com/sheihman)
